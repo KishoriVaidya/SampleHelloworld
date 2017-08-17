@@ -13,6 +13,8 @@
             <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
             <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
             <asp:Button ID="Button1" runat="server" Text="Button" OnClick="Button1_Click" />
+            <asp:HiddenField ID="HiddenField1" runat="server" />
+            <asp:ImageButton ID="ImageButton1" runat="server" />
         </div>
     </form>
 </body>
